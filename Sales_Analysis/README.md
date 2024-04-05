@@ -13,3 +13,7 @@ Developed an interactive sales dashboard enabling in-depth analysis. Implemented
 3. Established connections, joined new tables, and performed calculations to manipulate data, enabling user-driven parameters for visualizations.
 
 4. Utilized various types of customized visualizations, such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
+
+
+**Credits :-**
+This project is given by **Afame Technologies** as a part of internship. Special thanks to **Afame Technologies** for making this dataset available for Inetrnship.
